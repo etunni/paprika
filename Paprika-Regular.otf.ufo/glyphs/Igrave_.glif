@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="1">
+  <advance width="332"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="207" y="166" type="curve" smooth="yes"/>
+      <point x="207" y="352" smooth="yes"/>
+      <point x="284" y="661" smooth="yes"/>
+      <point x="284" y="783" type="curve" smooth="yes"/>
+      <point x="284" y="862" smooth="yes"/>
+      <point x="260" y="889" smooth="yes"/>
+      <point x="215" y="889" type="curve" smooth="yes"/>
+      <point x="196" y="889"/>
+      <point x="163" y="879"/>
+      <point x="148" y="866" type="curve"/>
+      <point x="168" y="826" smooth="yes"/>
+      <point x="169" y="779" smooth="yes"/>
+      <point x="169" y="731" type="curve" smooth="yes"/>
+      <point x="169" y="563" smooth="yes"/>
+      <point x="98" y="246" smooth="yes"/>
+      <point x="98" y="125" type="curve" smooth="yes"/>
+      <point x="98" y="24" smooth="yes"/>
+      <point x="129" y="-7" smooth="yes"/>
+      <point x="176" y="-7" type="curve" smooth="yes"/>
+      <point x="192" y="-7"/>
+      <point x="220" y="0"/>
+      <point x="245" y="29" type="curve"/>
+      <point x="212" y="65" smooth="yes"/>
+      <point x="207" y="114" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="128" y="1020" type="curve" smooth="yes"/>
+      <point x="200" y="969" smooth="yes"/>
+      <point x="309" y="911" smooth="yes"/>
+      <point x="329" y="911" type="curve" smooth="yes"/>
+      <point x="336" y="911"/>
+      <point x="346" y="921"/>
+      <point x="356" y="939" type="curve"/>
+      <point x="247" y="1021"/>
+      <point x="212" y="1053"/>
+      <point x="195" y="1084" type="curve"/>
+      <point x="176" y="1088" smooth="yes"/>
+      <point x="161" y="1089" smooth="yes"/>
+      <point x="148" y="1089" type="curve" smooth="yes"/>
+      <point x="104" y="1089" smooth="yes"/>
+      <point x="91" y="1073" smooth="yes"/>
+      <point x="91" y="1061" type="curve" smooth="yes"/>
+      <point x="91" y="1048" smooth="yes"/>
+      <point x="97" y="1042" smooth="yes"/>
+    </contour>
+    <component  base="I"/>
+    <component  base="grave.case" xOffset="-62"/>
+  </outline>
+</glyph>

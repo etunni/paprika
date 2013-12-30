@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.salt" format="1">
+  <advance width="177"/>
+  <outline>
+    <contour>
+      <point x="35" y="655" type="curve" smooth="yes" name="hr00"/>
+      <point x="97" y="655" smooth="yes"/>
+      <point x="177" y="758" smooth="yes"/>
+      <point x="177" y="839" type="curve" smooth="yes"/>
+      <point x="177" y="908" smooth="yes"/>
+      <point x="154" y="951" smooth="yes"/>
+      <point x="118" y="951" type="curve" smooth="yes"/>
+      <point x="83" y="951"/>
+      <point x="50" y="931"/>
+      <point x="19" y="890" type="curve"/>
+      <point x="52" y="873" smooth="yes"/>
+      <point x="75" y="834" smooth="yes"/>
+      <point x="75" y="792" type="curve" smooth="yes"/>
+      <point x="75" y="745"/>
+      <point x="47" y="708"/>
+      <point x="0" y="690" type="curve"/>
+      <point x="11" y="663" smooth="yes"/>
+      <point x="19" y="655" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="676" width="-21" />
+      <hstem pos="951" width="-20" />
+      <vstem pos="75" width="102" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
