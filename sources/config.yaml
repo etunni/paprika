@@ -1,0 +1,7 @@
+    sources:
+        - Paprika.glyphs
+    outputDir: "../fonts"
+    familyName: Paprika
+    buildVariable: false
+
+
